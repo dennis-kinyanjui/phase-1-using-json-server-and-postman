@@ -2,12 +2,12 @@
   "articles": [
     {
       "id": 1,
-      "title": "Example Article",
-      "content": "This is an example."
+      "title": "pirates of the caribbean",
+      "content": "exclusive voyges around china."
     },
     {
       "id": 2,
-      "title": "Second Article",
+      "title": "Ishiguro",
       "content": "This is also an example."
     }
   ]
